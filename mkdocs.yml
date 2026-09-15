@@ -6,6 +6,6 @@ nav:
   - DockerPat: DockerPat.md
   - DockerPush: DockerPush.md
   - Integration: Integration.md
-  
+  - SSOLogin: sso-login.md
 plugins:
   - techdocs-core
