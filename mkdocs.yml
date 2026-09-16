@@ -1,7 +1,8 @@
 site_name: 'python-pipeline-samples'
 
 nav:
-  - Home: index.md
+  - Home: sso-login.md
+  - HomeOne: index.md
   - CreatePipeline: CreatePipeline.md
   - DockerPat: DockerPat.md
   - DockerPush: DockerPush.md
